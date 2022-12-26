@@ -1,0 +1,10 @@
+.env
+/nc4_data
+/Raw_data_to_csv_data
+/logs
+/artifact
+/PowerPlant
+/Population
+/Cement_data
+/City_data
+/fire_data
