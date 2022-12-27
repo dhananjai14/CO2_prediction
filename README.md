@@ -21,6 +21,8 @@ A single CSV file is downloaded and then saved into the "/City_data" folder.
 
 ### 1.3 Cement data 
 
+[Cement dataset](https://www.cgfi.ac.uk/spatial-finance-initiative/geoasset-project/geoasset-databases/) was downloaded. 
+Relevant data was then extracted and then saved to the "/Cement_data" directory.
 
 ### 1.4 Fire data 
 
