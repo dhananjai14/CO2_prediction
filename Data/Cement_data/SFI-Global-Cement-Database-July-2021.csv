@@ -1,0 +1,13 @@
+city,state,latitude,longitude,accuracy,plant_type,capacity
+Kaloleni,Kilifi County,-3.845269,39.633423,Exact,Cement ,0.82
+Athi River,Machakos County,-1.450199,36.973584,Exact,Cement ,
+Athi River,Machakos County,-1.494593,37.055151,Exact,Cement ,
+Athi River,Machakos County,-1.453613,36.962209,Exact,Cement ,1.3
+Mombasa,Mombasa County,-4.006869,39.716398,Exact,Cement ,1.55
+Athi River,Machakos County,-1.434559,36.959825,Exact,Cement ,
+Mkomani,Kilifi County,-3.736371,39.845107,Exact,Cement ,
+Athi River,Machakos County,-1.431349,36.961717,Exact,Cement ,
+Athi River,Machakos County,-1.427661,36.957124,Exact,Cement ,
+Athi River,Machakos County,-1.459422,36.963062,Exact,Cement ,
+Nairobi,Machakos County,-1.37056,36.91674,Exact,Steel,
+,,-4.0464795,39.6049263,,Oil refineries,

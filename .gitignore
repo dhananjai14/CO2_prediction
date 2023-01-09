@@ -1,0 +1,5 @@
+.env
+/artifact
+/venv
+/logs
+/Data/nc4_data

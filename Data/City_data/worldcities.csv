@@ -1,0 +1,64 @@
+city_ascii,lat,lng,admin_name,capital,population,id
+Nairobi,-1.2864,36.8172,Nairobi City,primary,5545000,1404000661
+Meru,0.05,37.65,Meru,admin,1833000,1404588252
+Mombasa,-4.05,39.6667,Mombasa,admin,1200000,1404512373
+Kisumu,-0.1,34.75,Kisumu,admin,409928,1404511920
+Nakuru,-0.2833,36.0667,Nakuru,admin,307990,1404140179
+Eldoret,0.5167,35.2833,Uasin Gishu,admin,193830,1404676289
+Machakos,-1.5167,37.2667,Machakos,admin,114109,1404746781
+Thika,-1.0396,37.09,Kiambu,,99322,1404482650
+Nyeri,-0.4167,36.95,Nyeri,admin,98908,1404924901
+Mumias,0.3333,34.4833,Kakamega,,99987,1404232773
+Malindi,-3.21,40.1,Kilifi,,94016,1404380224
+Kakamega,0.2833,34.75,Kakamega,admin,91778,1404614327
+Garissa,-0.4569,39.6583,Garissa,admin,65881,1404464692
+Kitale,1.0167,35,Trans Nzoia,admin,63245,1404890081
+Bungoma,0.5666,34.5666,Bungoma,admin,55857,1404689847
+Wajir,1.7472,40.0572,Wajir,admin,45771,1404067343
+Isiolo,0.35,37.5833,Isiolo,admin,45989,1404771203
+Embu,-0.5333,37.45,Embu,admin,41092,1404376456
+Kisii,-0.6698,34.7675,Kisii,admin,37531,1404617601
+Busia,0.4608,34.1108,Busia,admin,30777,1404250734
+Homa Bay,-0.5167,34.45,Homa Bay,admin,32174,1404321159
+Kericho,-0.3692,35.2839,Kericho,admin,30023,1404338562
+Mandera,3.9167,41.8333,Mandera,admin,30433,1404192737
+Kitui,-1.3667,38.0167,Kitui,admin,29062,1404548296
+Moyale,3.527,39.056,Marsabit,,24837,1404689643
+Lamu,-2.262,40.9197,Lamu,admin,24525,1404163131
+Maralal,1.1,36.7,Samburu,admin,20841,1404895664
+Eldama Ravine,0.0504,35.72,Baringo,,17581,1404468256
+Kapsabet,0.2,35.1,Nandi,admin,17918,1404814363
+Marsabit,2.3333,37.9833,Marsabit,admin,17127,1404055253
+Lodwar,3.1167,35.6,Turkana,admin,16981,1404993573
+Namanga,-2.55,36.7833,,,13193,1404000001
+Hola,-1.5,40.03,Tana River,admin,6931,1404396632
+Kiambu,-1.1714,36.8356,Kiambu,admin,,1404390868
+Kabarnet,0.4919,35.743,Baringo,admin,,1404620707
+Migori,-1.0634,34.4731,Migori,admin,,1404478510
+Iten,0.6703,35.5081,Elgeyo/Marakwet,admin,,1404000102
+Kerugoya,-0.4989,37.2803,Kirinyaga,admin,,1404597807
+Nyamira,-0.5633,34.9358,Nyamira,admin,,1404000104
+Sotik Post,-0.7813,35.3416,Bomet,admin,,1404087664
+Murang'a,-0.721,37.1526,Murang’a,admin,,1404066738
+Siaya,0.0607,34.2881,Siaya,admin,,1404162576
+Kapenguria,1.2389,35.1119,West Pokot,admin,,1404228137
+Mwatate,-3.505,38.3772,Taita/Taveta,admin,,1404648092
+Wote,-1.7808,37.6288,Makueni,admin,,1404304549
+Kajiado,-1.85,36.7833,Kajiado,admin,,1404265412
+Narok,-1.0833,35.8667,Narok,admin,,1404459814
+Ol Kalou,-0.2643,36.3788,Nyandarua,admin,,1404930645
+Kwale,-4.1737,39.4521,Kwale,admin,,1404769042
+Rumuruti,0.2725,36.5381,Laikipia,admin,,1404005234
+Kendu Bay,-0.3596,34.64,Homa Bay,,91248,1404600696
+Athi River,-1.45,36.9833,Machakos,,81302,1404232217
+Kilifi,-3.6333,39.85,Kilifi,,80339,1404002930
+Sotik,-0.6796,35.12,Bomet,,71285,1404807525
+Voi,-3.3696,38.57,Taita/Taveta,,36487,1404504656
+Nanyuki,0.0167,37.0667,Laikipia,,31577,1404481993
+Naivasha,-0.7167,36.4333,Nakuru,,14563,1404904927
+Mwingi,-0.9296,38.07,Kitui,,11219,1404312666
+Dadaab,0.0531,40.3086,Garissa,,5723,1404002655
+Karungu,-0.8496,34.15,Migori,,2376,1404796412
+Witu,-2.3796,40.43,Lamu,,5380,1404037095
+Konza,-1.7496,37.12,Machakos,,2004,1404143289
+Tsavo,-2.9828,38.4666,Taita/Taveta,,414,1404321644
